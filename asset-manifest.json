@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weatherpage-app/static/css/main.7ca1a28a.css",
+    "main.js": "/weatherpage-app/static/js/main.5230d98e.js",
+    "static/js/453.a7fcae61.chunk.js": "/weatherpage-app/static/js/453.a7fcae61.chunk.js",
+    "index.html": "/weatherpage-app/index.html",
+    "main.7ca1a28a.css.map": "/weatherpage-app/static/css/main.7ca1a28a.css.map",
+    "main.5230d98e.js.map": "/weatherpage-app/static/js/main.5230d98e.js.map",
+    "453.a7fcae61.chunk.js.map": "/weatherpage-app/static/js/453.a7fcae61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca1a28a.css",
+    "static/js/main.5230d98e.js"
+  ]
+}
